@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on ying 的網站</title>
+    <link>https://demo.gethugothemes.com/about/</link>
+    <description>Recent content in About Me on ying 的網站</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://demo.gethugothemes.com/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
